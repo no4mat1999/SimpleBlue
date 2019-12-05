@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=SimpleBlue
+Comment=Tema minilamista azul, by virtual-luxury
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=SimpleBlue
+MetacityTheme=SimpleBlue
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
